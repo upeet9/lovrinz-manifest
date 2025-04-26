@@ -1,2 +1,0 @@
-# lovrinz-manifest
-manifest
